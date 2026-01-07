@@ -8,8 +8,7 @@
 
 #### `KNOWLEDGE IS POWER 💡` 
 - ✨ I’m currently working on great AI & Data Science projects using Python & React.
-- 🌱 I’m currently learning Deep Learning, NLP and more.  
-- 🤔 I’m looking for help with Big Data. 
+- 🌱 I’m currently learning Deep Learning, NLP, Agentic AI and more.  
 - 💬 Ask me about AI, Data science.
 - 📫 How to reach me: <a href="www.linkedin.com/in/mukesh-k-4b3652319/">MukeshKrishnamurthy</a>
 
